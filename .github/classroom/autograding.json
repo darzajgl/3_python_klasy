@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "task 1",
+      "setup": "",
+      "run": "python3 -m unittest test_task1.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 2",
+      "setup": "",
+      "run": "python3 -m unittest test_task2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 3",
+      "setup": "",
+      "run": "python3 -m unittest test_task3.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 4",
+      "setup": "",
+      "run": "python3 -m unittest test_task4.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 5",
+      "setup": "",
+      "run": "python3 -m unittest test_task5.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 6",
+      "setup": "",
+      "run": "python3 -m unittest test_task6.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 7",
+      "setup": "",
+      "run": "python3 -m unittest test_task7.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "task 8",
+      "setup": "",
+      "run": "python3 -m unittest test_task8.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
