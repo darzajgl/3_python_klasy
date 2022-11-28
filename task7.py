@@ -27,3 +27,7 @@ class StockSorter:
 
 
 # Tutaj zadeklaruj klasę `StockQuantitySorter`
+
+class StockQuantitySorter(StockSorter):
+    def _get_sorting_key(self, stock_item: StockItem):
+        return stock_item.quantity

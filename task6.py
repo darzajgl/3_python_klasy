@@ -23,3 +23,12 @@
 #  colony.ants == {worker}
 #  worker2 = colony.spawn_ant("worker2")
 #  colony.ants == {worker, worker2}
+
+class Colony():
+    def __init__(self, name):
+        self.name = name
+
+
+class Ant():
+    pass
+
